@@ -2,9 +2,9 @@
 
 ## Database Server
 
-PostgreSQL
-Redis
+### PostgreSQL
+### Redis
 
 ## Web Server
 
-Apache Tomcat
+### Apache Tomcat
